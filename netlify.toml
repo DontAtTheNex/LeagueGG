@@ -8,4 +8,4 @@
 [build]
   base    = "LeagueGG/server/"
   command = "npm run build"
-  publish = "client/dist"
+  publish = "LeagueGG/"
