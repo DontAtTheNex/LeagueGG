@@ -1,11 +1,11 @@
-# LeagueStats
+# LeagueGG
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/caa8be10-e095-4934-81ef-b662fb73483f/deploy-status)](https://app.netlify.com/sites/leaguestats-gg/deploys)
-<a href="https://discord.gg/RjBzjfk"><img src="https://img.shields.io/badge/Discord-join%20chat-738bd7.svg" alt="LeagueStats.gg official Discord"></a>
+<a href="https://discord.gg/93KNehx"><img src="https://img.shields.io/badge/Discord-join%20chat-738bd7.svg" alt="LeagueGG.tk official Discord"></a>
 
 
-The goal of [leaguestats.gg](https://leaguestats.gg) is to provide global complete data for all League of Legends summoners.  
-Here is an [example](https://leaguestats.gg/summoner/euw/Alderiate) of stats for some summoner.
+The goal of [leagueGG.tk](https://leaguegg.tk) is to provide global complete data for all League of Legends summoners.  
+Here is an [example](https://leaguegg.tk/summoner/euw/Alderiate) of stats for some summoner.
 
 ![Screenshot](https://res.cloudinary.com/kln/image/upload/v1580935119/leaguestats-preview.png)
 
